@@ -6,6 +6,7 @@ contributors:
   - VSen910
   - rossilor95
   - ClasherKasten
+  - SpirosArk
 ---
 
 ## Write a programme to compute the volume of a Sphere
