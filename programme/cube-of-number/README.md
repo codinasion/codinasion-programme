@@ -8,6 +8,7 @@ contributors:
   - isobarbaric
   - danyroza
   - sonarypt
+  - SpirosArk
 ---
 
 ## Write a programme to find cube of a number
